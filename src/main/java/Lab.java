@@ -2,7 +2,7 @@ public class Lab {
     /**
      * returns "Hello, world!"
      *
-     * Thi method currently contains the line:
+     * Th method currently contains the line:
      * return "change me";
      * That means that this method is a piece of code that produces a String "change me", 
      * and when this method is used in other parts of my program, the value "change me"
@@ -15,6 +15,7 @@ public class Lab {
      * @return "Hello, world!"
      */
     public String sayHello(){
+    
        
     }
 }
